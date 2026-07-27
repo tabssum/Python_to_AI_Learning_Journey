@@ -1,1 +1,1 @@
-# Python_to_AI_Learning_Pratical_journey
+# Python_to_AI_Learning_journey
