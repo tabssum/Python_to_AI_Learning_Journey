@@ -1,1 +1,1 @@
-# Python_Assignments_yaminsir-s_class
+# Python_to_AI_Learning_Pratical_journey
